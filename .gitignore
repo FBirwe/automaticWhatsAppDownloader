@@ -1,0 +1,4 @@
+/10_venv/*
+/20_images/*
+/21_db/*
+.DS_Store
