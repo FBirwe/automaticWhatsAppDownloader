@@ -1,4 +1,7 @@
 /10_venv/*
 /20_images/*
 /21_db/*
+/40_driver/*
 .DS_Store
+.ipynb_checkpoints
+__pycache__
